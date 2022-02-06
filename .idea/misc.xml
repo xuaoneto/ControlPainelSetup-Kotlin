@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/buttonshape.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/enterbuttonshape.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/offswitchbutton.xml" value="0.2075" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/onswitchbutton.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/pressedenterbutton.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/selectorenterbutton.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/selectorswitchbutton.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/drawable/transitionbgswitch.xml" value="0.197" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/layout/activity_controls_painel.xml" value="0.33" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/ControlMySetup/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/app/src/main/res/drawable/buttonshape.xml" value="0.1" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/app/src/main/res/drawable/custom_button.xml" value="0.1835" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/app/src/main/res/drawable/styles.xml" value="0.1835" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/app/src/main/res/layout/activity_controls_painel.xml" value="0.25" />
+        <entry key="..\:/Users/jofer/OneDrive/Desktop/Projetos/Kotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
